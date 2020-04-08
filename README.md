@@ -1,3 +1,3 @@
 # GeekBrains---HTML-CSS
 
-Интернет магазин. Курс GeekBrains: HTML/CSS. Интерактивный курс
+Сайт Геймер. Курс GeekBrains: HTML/CSS. Интерактивный курс
