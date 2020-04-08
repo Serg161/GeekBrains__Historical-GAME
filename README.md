@@ -1,3 +1,3 @@
-# Historical_GAME
+# GeekBrains---HTML-CSS
 
-Сверстал главную страницу по макету в AVOCOD - интерактивный курс GeekBrains
+Интернет магазин. Курс GeekBrains: HTML/CSS. Интерактивный курс
